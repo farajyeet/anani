@@ -9,9 +9,9 @@ i%
     
 -m[]   
 (   
- @pf ["hello, dumbass!\n"]*   
+    @pf ["hello, dumbass!\n"]*   
     
- @r 0*   
+    @r 0*   
 )   
 ```  
 
