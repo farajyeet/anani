@@ -4,16 +4,16 @@ Esoteric shitty language.
 **Type:** Transpiler.
 
 ## Small taste of shit
-```ruby  
-i%   
-    
--m[]   
-(   
-    @pf ["hello, dumbass!\n"]*   
-    
-    @r 0*   
-)   
-```  
+```ruby
+i%
+
+-m[]
+(
+    @pf ["hello, dumbass!\n"]*
+
+    @r 0*
+)
+```
 
 #### Authors
 - [fikret0](https://github.com/fikret0)
