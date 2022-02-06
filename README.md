@@ -17,6 +17,6 @@ i%
 
 #### Authors
 - [fikret0](https://github.com/fikret0)
-- [faraaj](https://github.com/faraaj)
+- [farajyeet](https://github.com/farajyeet)
 
 #### This project is licensed under the terms of [MIT License](LICENSE).
